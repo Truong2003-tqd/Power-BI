@@ -1,3 +1,6 @@
+# Authorship
+**Created by:** Xuan Truong
+**Owned by:** RMIT Vietnam Analytics Club and Xuan Truong
 # DAX for Sample Dashboard
 
 ## DAX Expression Structure
