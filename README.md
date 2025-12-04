@@ -61,6 +61,10 @@ Advanced Excel track covering complex functions, financial modeling, capital bud
 
 In day 3 workshop, you open the file **Power BI File with Connect Model** > **For End-to-end Measure Writing** Power BI file to practice.
 
+### For Testers
+
+You can open **For End-to-end Measure Writing** file first and test some provided measures to make sure if it work in Power BI. This step is must to make sure the DAXs are usable. To save your time, you can open **For Dashboard Assembling** file to assemble charts and graphs, following instructions in the Day 3 slide. Remember, the instructions have a lot of small steps that you can make mistakes with some of them and can not get the desired outcome. Please report any errors to our group. 
+
 Please access the link below to open the DAXs guide to build dashboard in this session.
 
 **Link:** https://github.com/Truong2003-tqd/Power-BI/tree/8f5a8620e8c0d65a1c66de3a987c0b492cbf9169/Practice%20Power%20BI
