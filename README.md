@@ -60,3 +60,7 @@ Advanced Excel track covering complex functions, financial modeling, capital bud
 **Important Note:** The folder of Day 3 was sent to your Outlook email. Please check your notifications and follow the following steps.
 
 In day 3 workshop, you open the file **Power BI File with Connect Model** > **For End-to-end Measure Writing** Power BI file to practice.
+
+Please access the link below to open the DAXs guide to build dashboard in this session.
+
+**Link:** https://github.com/Truong2003-tqd/Power-BI/tree/8f5a8620e8c0d65a1c66de3a987c0b492cbf9169/Practice%20Power%20BI
